@@ -16,7 +16,7 @@ and more advanced NLP pre-trained models BERT;
 3. lastly, the performances of these methods will be compared and discussed.
 
 Files include:  
-* Data: Train_Data.csv, Test_Data.csv  
+* Data: Train_Data.csv, Test_Data.csv, /dictionary/ (to build features)  
 * Code: models.py (for neural network models), dataset.py (for converting Vocab to Int, padding, batching data), train_cls.py (for training neural networks)  
 * Notebook: Project.ipynb (for preprocessing data, sentiment prediction using different models, and show performances)  
 <!-- * Report: Final_Report.pdf (detailed explanation of the project)   -->
