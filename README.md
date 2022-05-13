@@ -19,7 +19,7 @@ Files include:
 * Data: Train_Data.csv, Test_Data.csv  
 * Code: models.py (for neural network models), dataset.py (for converting Vocab to Int, padding, batching data), train_cls.py (for training neural networks)  
 * Notebook: Project.ipynb (for preprocessing data, sentiment prediction using different models, and show performances)  
-* Report: Final_Report.pdf (detailed explanation of the project)  
+<!-- * Report: Final_Report.pdf (detailed explanation of the project)   -->
 
 Pytorch implementations:
 * 1-layer RNN model
